@@ -1,2 +1,3 @@
 # WorkshopLDOP
-Repo for workshop in LDOP Arithmetic 4.0
+- Repo for workshop in LDOP Arithmetic 4.0
+- Cheers :)
