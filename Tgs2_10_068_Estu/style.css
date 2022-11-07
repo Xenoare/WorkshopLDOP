@@ -1,0 +1,139 @@
+* 
+{
+    margin : 0;
+    padding : 0;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: large;
+}
+
+h1
+{
+    font-size: larger;
+}
+
+.navbar ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: peachpuff;
+}
+  
+.navbar li {
+    float: left;
+}
+  
+.navbar li a {
+    display: block;
+    color: #001;
+    text-align: center;
+    padding: 14px 35px;
+    text-decoration: none;
+}
+  
+.navbar li a:hover {
+    background-color: white;
+}
+
+.bio-data
+{
+    height: 200px;
+    width: 15%;
+    margin: 20px 0 0 20px;
+    padding: 5px;
+}
+
+.bio-data img
+{
+    height: 200px;
+    width: 200px;
+}
+
+.about-me
+{
+    width: 75%;
+    padding: 5px;
+    margin: 30px;
+    height: 150px;
+    background-image: url(image-bio/llline.svg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+
+.riwayat-pendidikan
+{
+    height: 200px;
+    width: 40%;
+    margin: 20px 0px 0 40px;
+    padding: 5px;
+    background-image: url(image-bio/blob.svg);
+    background-repeat: no-repeat;
+    background-position: 60px;
+    background-size: contain;
+}
+
+.riwayat-pendidikan li
+{
+    margin: 10px;
+    padding: 10px;
+    border-style: none none solid none;
+}
+
+.pengalaman
+{
+    width: 50%;
+    height: 100px;
+    margin: 20px 0 0 0;
+    padding: 5px;
+}
+
+.pengalaman li
+{
+    padding: 10px;
+    border-style: none none solid none;
+}
+
+.contact-me
+{
+    width: 100%;
+    height: 100px;
+}
+
+.contact-me h1
+{
+    margin-left: 45%;
+}
+
+.github-follow
+{
+    margin-left: 40%;
+}
+
+.twitter-follow
+{
+    margin-right: 40%;
+}
+
+.footer
+{
+    list-style-type: none;
+    margin: 0;
+    padding: 20px;
+    overflow: hidden;
+    background-color: #001;
+}
+
+.footer h1
+{
+    color: white;
+    text-align: center;
+    text-decoration: none;
+}
+
+.footer h1 a
+{
+    text-align: center;
+    text-decoration: none;
+    color: white;   
+}
